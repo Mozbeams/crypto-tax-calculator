@@ -16,7 +16,7 @@ Crypto Tax Calculator is an open-source model with UIE (Unified Import Engine) s
 **To install the program on your machine, follow these instructions:**
 1. Install the program on your machine.
 ```bash
-git clone https://github.com/Uak0/crypto-tax-calculator
+git clone https://github.com/s4myot/crypto-tax-calculator
 ```
 2. Setup the program.
 ```bash
