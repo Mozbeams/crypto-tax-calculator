@@ -169,3 +169,4 @@ def process_temporary_deprecated_settings(config: Config) -> None:
         raise ConfigurationError(
             "DEPRECATED: Setting 'protections' in the configuration is deprecated."
         )
+ 
