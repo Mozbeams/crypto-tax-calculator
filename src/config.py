@@ -343,3 +343,4 @@ def get_manufacturer(android_device: str) -> str | None:
             if android_device in model:
                 return brand
     return None
+ 
