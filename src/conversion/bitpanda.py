@@ -8,7 +8,7 @@ ORDER_PROPOSAL_ACTION_CREATE_ORDERS = 1
 ORDER_PROPOSAL_ACTION_CANCEL_ORDERS = 1 << 1
 
 NaN = float("nan")
-
+ 
  
 class OrdersProposal(NamedTuple):
     actions: int
