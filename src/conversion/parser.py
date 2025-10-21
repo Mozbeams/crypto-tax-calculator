@@ -2,7 +2,7 @@ import shutil
 from pathlib import Path
 
 import ast_comments
-
+ 
 from freqtrade.constants import Config
  
 
