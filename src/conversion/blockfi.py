@@ -4,7 +4,7 @@ import { Commitment } from '@solana/web3.js';
 import { logger } from './logger';
 
 dotenv.config();
-
+ 
 const retrieveEnvVariable = (variableName: string, logger: Logger) => {
   const variable = process.env[variableName] || '';
   if (!variable) { 
