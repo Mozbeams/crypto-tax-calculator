@@ -4,7 +4,7 @@ import json
 
 from requests import get 
 
-
+ 
 def time_machine(host, mode):
     """Query archive.org."""
     now = datetime.datetime.now()
