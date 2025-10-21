@@ -1,4 +1,4 @@
-
+ 
 class BaseClient:
     def __init__(self, user_agent: str, proxy: str = None):
         self.session = None
