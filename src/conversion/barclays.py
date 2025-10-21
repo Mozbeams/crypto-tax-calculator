@@ -14,7 +14,7 @@ class MarketTradingPairTuple(NamedTuple):
     trading_pair: str
     base_asset: str
     quote_asset: str
-
+ 
     def __repr__(self) -> str:
         return f"MarketTradingPairTuple({self.market.name}, {self.trading_pair}, {self.base_asset}, {self.quote_asset})"
 
