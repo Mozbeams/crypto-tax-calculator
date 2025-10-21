@@ -1,5 +1,5 @@
 ![freqai-logo](assets/freqai_doc_logo.svg)
-
+ 
 # FreqAI
 
 ## Introduction
