@@ -18,7 +18,7 @@ from hummingbot.strategy.strategy_base import StrategyBase
 s_decimal_zero = Decimal(0)
 sb_logger = None
 
-
+ 
 class CreatedPairOfOrders:
     def __init__(self, buy_order: Optional[LimitOrder], sell_order: Optional[LimitOrder]):
         self.buy_order = buy_order
