@@ -7,7 +7,7 @@ from freqtrade.exceptions import StrategyError
 
 
 logger = logging.getLogger(__name__)
-
+ 
 
 class StrategyResultValidator:
     def __init__(self, dataframe: DataFrame, warn_only: bool = False):
