@@ -5,7 +5,7 @@
         self.values = {}
         self.score = 0
         self.total_weight = 0
-
+ 
     def compute_score(self, relevant_scoring_parameters):
         self.score = 0
         try:
