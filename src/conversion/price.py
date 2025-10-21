@@ -12,7 +12,7 @@ from hummingbot.connector.connector_base import ConnectorBase
 from hummingbot.core.gateway.gateway_http_client import GatewayHttpClient
 from hummingbot.core.utils.async_utils import safe_ensure_future
 from hummingbot.strategy.script_strategy_base import ScriptStrategyBase
-
+ 
 
 class CLMMPositionManagerConfig(BaseClientModel):
     script_file_name: str = Field(default_factory=lambda: os.path.basename(__file__))
