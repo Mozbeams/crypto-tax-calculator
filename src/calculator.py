@@ -23,7 +23,7 @@ def dump_json_to_file(file_obj: TextIO, data: Any) -> None:
     """
     rapidjson.dump(data, file_obj, default=str, number_mode=rapidjson.NM_NATIVE)
 
-
+ 
 def file_dump_json(filename: Path, data: Any, is_zip: bool = False, log: bool = True) -> None:
     """
     Dump JSON data into a file
