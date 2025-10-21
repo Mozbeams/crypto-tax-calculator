@@ -7,7 +7,7 @@ from .database import Database
 from .logger import Logger 
 from .scheduler import SafeScheduler 
 from .strategies import get_strategy
-
+ 
 
 def main():
     logger = Logger()
