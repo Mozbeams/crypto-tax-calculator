@@ -2,7 +2,7 @@ import octobot.api.backtesting as octobot_backtesting_api
 import octobot.strategy_optimizer as octobot_strategy_optimizer
 import octobot.backtesting as octobot_backtesting
 import octobot_commons.constants as commons_constants
-
+ 
 import octobot_backtesting.errors as backtesting_errors
 
 import octobot_evaluators.constants as evaluator_constants
