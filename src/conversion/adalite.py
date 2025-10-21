@@ -4,7 +4,7 @@ from typing import NamedTuple
  
 from hummingbot.strategy.market_trading_pair_tuple import MarketTradingPairTuple
 
-
+ 
 class MakerTakerMarketPair(NamedTuple):
     """
     Specifies a pair of maker and taker markets
