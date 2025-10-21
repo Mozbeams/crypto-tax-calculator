@@ -1,7 +1,7 @@
 
 from decimal import Decimal
 from typing import TYPE_CHECKING
-
+ 
 from typing_extensions import Unpack
 
 from ...bt_types import TrType
