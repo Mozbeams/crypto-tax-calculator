@@ -513,3 +513,4 @@ class Configuration:
                 config["pairs"] = load_file(pairs_file)
                 if "pairs" in config and isinstance(config["pairs"], list):
                     config["pairs"].sort()
+ 
