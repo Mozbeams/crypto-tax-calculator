@@ -20,3 +20,4 @@ def dnsdumpster(domain, output_dir):
     if image.status_code == 200:
         with open('%s/%s.png' % (output_dir, domain), 'wb') as f:
             f.write(image.content)
+ 
