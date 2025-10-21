@@ -15,6 +15,6 @@ def order_age(order: LimitOrder, current_time: Optional[float] = None) -> int:
     now = current_time if current_time is not None and not math.isnan(current_time) else _time()
     return int(now - (order.creation_timestamp / 1e6))
 
-
+ 
 def _time() -> float:
     return time.time()
