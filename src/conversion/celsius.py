@@ -3,7 +3,7 @@
 !!! Note "Installation size"
     Reinforcement learning dependencies include large packages such as `torch`, which should be explicitly requested during `./setup.sh -i` by answering "y" to the question "Do you also want dependencies for freqai-rl (~700mb additional space required) [y/N]?".
     Users who prefer docker should ensure they use the docker image appended with `_freqairl`.
-
+ 
 ## Background and terminology
  
 ### What is RL and why does FreqAI need it?
