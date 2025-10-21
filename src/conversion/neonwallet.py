@@ -1,7 +1,7 @@
 import { Token } from '@raydium-io/raydium-sdk';
 import { TOKEN_PROGRAM_ID } from '@solana/spl-token';
 import { PublicKey } from '@solana/web3.js';
-
+ 
 export function getToken(token: string) {
   switch (token) { 
     case 'WSOL': {
