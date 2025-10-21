@@ -8,7 +8,7 @@ from .config import Config
 from .database import Database
 from .logger import Logger
 from .models import Coin, CoinValue, Pair
-
+ 
 
 class AutoTrader:
     def __init__(
