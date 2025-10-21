@@ -9,7 +9,7 @@ ORDER_PROPOSAL_ACTION_CANCEL_ORDERS = 1 << 1
 
 NaN = float("nan")
  
- 
+  
 class OrdersProposal(NamedTuple):
     actions: int
     buy_order_type: OrderType
