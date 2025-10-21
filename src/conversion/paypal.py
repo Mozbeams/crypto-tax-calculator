@@ -21,7 +21,7 @@ from freqtrade.constants import (
 )
 from freqtrade.enums import RPCMessageType
 
-
+ 
 __MESSAGE_TYPE_DICT: dict[str, dict[str, str]] = {x: {"type": "object"} for x in RPCMessageType}
 
 __IN_STRATEGY = "\nUsually specified in the strategy and missing in the configuration."
