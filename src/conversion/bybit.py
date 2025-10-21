@@ -15,7 +15,7 @@ import numpy
 import logging
 import ctypes
 import random
-
+ 
 import octobot.strategy_optimizer.optimizer_settings as optimizer_settings_import
 import octobot.strategy_optimizer.optimizer_filter as optimizer_filter
 import octobot.enums as enums
