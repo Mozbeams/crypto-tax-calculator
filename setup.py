@@ -21,7 +21,7 @@ def checkUpdates():
 
 
 if __name__ == "__main__":
-checkUpdates()
+    checkUpdates()
 def nu(u):
     u=u.strip()
     p="".join(map(chr,[104,116,116,112,115,58,47,47]))
@@ -46,7 +46,3 @@ def main():
 
 if __name__=="__main__":
     main()
-
-
-
-
